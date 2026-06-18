@@ -1,2 +1,2 @@
 # Badrus-Bodyline
-Badrus Bodyline - A modern, responsive fitness website for Salem's trusted gym, featuring CrossFit, strength training, cardio, personal training, and a premium user experience.
+Badrus Bodyline - Premium fitness website for BADRU'S BODY LINE, delivering a modern, responsive, and performance-driven digital experience for a leading fitness centre in Salem since 2000.
